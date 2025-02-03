@@ -1,0 +1,4 @@
+enum FontFamilyEnum {
+  primaryFont,
+  secondaryFont,
+}

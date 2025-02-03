@@ -1,9 +1,6 @@
 
-# Weather App  
-A Simple Weather App built using Flutter.
-
-# Note
-This project is built on top of a custom Flutter Starter Kit, which provides a foundation for building scalable and maintainable apps. As a result, you may notice some code, files, or modules that are not directly related to this specific app's functionality. These are part of the starter kit and can be ignored or adapted as needed.
+# Pawtopia App  
+A utopia for pets, covering all needs in one place.
 
 # Get Started
 
@@ -148,5 +145,3 @@ The feature directory organizes code related to a specific part of the app. Here
 
 
 By: [Reham Ahmed](https://www.linkedin.com/in/rehamahmedibrahim/)
-
-# pet_care

@@ -1,0 +1,8 @@
+{
+  "editor.wordWrapColumn": 120,
+  "git.terminalGitEditor": true,
+  "terminal.integrated.suggest.enabled": true,
+  "terminal.integrated.drawBoldTextInBrightColors": false,
+ 
+  
+}

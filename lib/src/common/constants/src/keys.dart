@@ -1,0 +1,15 @@
+const String kDontShowOnBoarding = "kDontShowOnBoarding";
+const String kToken = "token";
+const String kType = "type";
+const String kRemember = "kRemember";
+const String kLoggedOut = "loggedOut";
+const String kPhone = 'phone';
+const String kProfile = "myProfile";
+const String kId = "id";
+const String kfcmToken = 'fcmToken';
+const String kHasParent = 'hasParent';
+const String kUser = "user";
+const String kname = "name";
+const String kServer = "server";
+const String knotificationPayload = "knotificationPayload";
+const String klangCode = "klangCode";
